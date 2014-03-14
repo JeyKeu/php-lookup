@@ -1,0 +1,22 @@
+{
+    "name": "jeykeu/keulookup",
+    "description": "Lookup methods similar to that of Excel.",
+    "keywords": ["php", "lookup", "vlookup", "excel", "formula"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Junaid Qadir Baloch",
+            "email": "shekhanzai.baloch@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "phpunit/phpunit":"*"
+    },
+    "autoload": {
+        "psr-0": {
+            "\\JeyKeu\\PHPLookup": "src/"
+        }
+    }
+}
