@@ -1,6 +1,6 @@
 {
     "name": "jeykeu/keulookup",
-    "description": "Lookup methods similar to that of Excel.",
+    "description": "Lookup methods similar to that of Excel",
     "keywords": ["php", "lookup", "vlookup", "excel", "formula"],
     "type": "library",
     "license": "MIT",
